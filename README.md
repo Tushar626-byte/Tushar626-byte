@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar kanti Dey</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">I specialize in UI/UX design and web development, creating intuitive and engaging digital experiences from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -7,6 +7,7 @@
 <a href="https://linkedin.com/in/tushar-kanti-dey-86185b28b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-kanti-dey-86185b28b" height="30" width="40" /></a>
 <a href="https://fb.com/tushar kanti dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar kanti dey" height="30" width="40" /></a>
 <a href="https://instagram.com/ff_tushar999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ff_tushar999" height="30" width="40" /></a>
+<a href="https://dribbble.com/tushar_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tushar_999" height="30" width="40" /></a>
 <a href="https://www.behance.net/tusharkantidey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tusharkantidey" height="30" width="40" /></a>
 <a href="https://medium.com/@t.k.d.dey2033929837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t.k.d.dey2033929837" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@t_k_d_dey2033921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@t_k_d_dey2033921" height="30" width="40" /></a>
